@@ -1,5 +1,6 @@
 <?php
 
+
 /***** Tableaux associatif multidimensionnel **********/
 //-----------------------------------------------------
 echo "Tableau associatif multidimensionnel : <br>";
